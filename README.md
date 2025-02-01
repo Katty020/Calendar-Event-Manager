@@ -1,4 +1,4 @@
-# Calendar Event Manager
+# Calendar Event Manager -(Assignment)
 Written in TypeScript.
 
 ### Tools/Technologies/Libraries used
